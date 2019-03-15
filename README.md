@@ -20,3 +20,15 @@ Toda mensagem enviada, vai primeiro para o servidor, que depois atualiza para os
 
 
 E se mais pessoas quiserem entrar na conversa, basta iniciar mais um instância cliente e informar a pessoa o IP e a porta do servidor, assim a pessoa passa a participar da conversa como no exemplo abaixo:
+
+
+<p align="center">
+  <img src="chat3.png">
+</p>
+
+
+
+#### Material de auxílio
+[Programação com sockets](https://pt.wikibooks.org/wiki/Redes_de_computadores/Programa%C3%A7%C3%A3o_com_sockets)
+
+[Lista de portas](https://pt.wikipedia.org/wiki/Lista_padr%C3%A3o_de_servi%C3%A7os_e_portas_associadas)
