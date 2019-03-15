@@ -18,6 +18,5 @@ Toda mensagem enviada, vai primeiro para o servidor, que depois atualiza para os
   <img src="chat2.png">
 </p>
 
-<p align="center">
-  <img src="chat3.png">
-</p>
+
+E se mais pessoas quiserem entrar na conversa, basta iniciar mais um instância cliente e informar a pessoa o IP e a porta do servidor, assim a pessoa passa a participar da conversa como no exemplo abaixo:
